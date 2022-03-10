@@ -11,3 +11,5 @@ Author- Gowtham
 3.Last Seen Code
 
 4.Attchments(Image,Audio,Video) Code 
+
+5.Hiding last seen 
